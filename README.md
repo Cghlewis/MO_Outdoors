@@ -11,11 +11,11 @@
 ## Chapters
 
 - Why this book and about us
-
-- North 
-- East
-- Southeast
-- South
-- Central
-- West
+- Regions
+  - North 
+  - East
+  - Southeast
+  - South
+  - Central
+  - West
 - Acknowledgements
