@@ -1,5 +1,7 @@
 # MO_Outdoors: A guide to outdoor activities in Missouri
 
+## Authors: Crystal Lewis and Rena Schmidt
+
 ## Rating System
 - Beauty
 - Popularity/Crowds
@@ -18,4 +20,5 @@
   - South
   - Central
   - West
+- Bucket list
 - Acknowledgements
