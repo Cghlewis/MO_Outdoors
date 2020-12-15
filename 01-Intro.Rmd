@@ -1,0 +1,34 @@
+# About this book {#intro}
+
+This book is an opinionated overview of the national and state parks as well as conservation areas visited by the authors. In order to be succinct, city and county parks are not included. All parks in included in this book will be categorized into the 6 regional areas, denoted by [DNR regional offices](https://dnr.mo.gov/regions/), that make up the state of Missouri. Each of those regions will be a chapter.  
+
+1. Orange: West
+2. Green: South
+3. Purple: North
+4. Light blue: Central
+5. Yellow: Southeast
+6. Blue: East
+
+
+All parks are rated on 7 criteria using a 5 point system. This can help readers easily get a snapshot if the park is right for them. However, not everything can be summed up in a rating system so each park will also include further description of why those ratings were given as well as images of the park if one is available.
+
+```{r, echo = FALSE, fig.align="center"}
+knitr::include_graphics("img/regions.jpg")
+```
+
+We use the below criteria for reviewers. For example, consider a close, accessible, family-friendly location that does not have any camping options; these are rated along a 1 (minimal) to 5 (maximum) degree of the following;
+
+|Criterion           |Description                                                         |
+|--------------------|--------------------------------------------------------------------|
+|Beauty              |This includes natural beauty, cleanliness and uniqueness of the site|
+|Popularity/Crowds   |We prefer less crowds, so more crowded equals lower rating          |
+|Ease of navigation  |This refers to trail confusion, will you get lost IN the park       |
+|Toddler friendly    |Difficult terrain, poorly maintained trail, etc. equals low rating  |
+|Dogs allowed        |Are dogs legally allowed in the park, is it dog friendly            |
+|Camping options     |Are there options for car or primitive camping? Yurts/cabins?       |
+|Activity options    |Do they rent kayaks, do they have geocaching, fishing, etc.?        |
+
+
+
+
+
