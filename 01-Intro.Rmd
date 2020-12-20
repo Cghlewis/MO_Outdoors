@@ -2,12 +2,13 @@
 
 This book is an opinionated overview of the national and state parks as well as conservation areas visited by the authors. In order to be succinct, city and county parks are not included. All parks in included in this book will be categorized into the 6 regional areas, denoted by [DNR regional offices](https://dnr.mo.gov/regions/), that make up the state of Missouri. Each of those regions will be a chapter.  
 
-1. Orange: West
-2. Green: South
-3. Purple: North
-4. Light blue: Central
-5. Yellow: Southeast
-6. Blue: East
+1. Purple: North
+2. Blue: East
+3. Yellow: Southeast
+4. Green: South
+5. Light blue: Central
+6. Orange: West
+
 
 ```{r, echo = FALSE, fig.align="center", out.width='50%'}
 knitr::include_graphics("img/regions.jpg")
