@@ -9,24 +9,25 @@ This book is an opinionated overview of the national and state parks as well as 
 5. Yellow: Southeast
 6. Blue: East
 
-
-All parks are rated on 7 criteria using a 5 point system. This can help readers easily get a snapshot if the park is right for them. However, not everything can be summed up in a rating system so each park will also include further description of why those ratings were given as well as images of the park if one is available.
-
-```{r, echo = FALSE, fig.align="center"}
+```{r, echo = FALSE, fig.align="center", out.width='50%'}
 knitr::include_graphics("img/regions.jpg")
 ```
 
-We use the below criteria for reviewers. For example, consider a close, accessible, family-friendly location that does not have any camping options; these are rated along a 1 (minimal) to 5 (maximum) degree of the following;
 
-|Criterion           |Description                                                         |
-|--------------------|--------------------------------------------------------------------|
-|Beauty              |This includes natural beauty, cleanliness and uniqueness of the site|
-|Popularity/Crowds   |We prefer less crowds, so more crowded equals lower rating          |
-|Ease of navigation  |This refers to trail confusion, will you get lost IN the park       |
-|Toddler friendly    |Difficult terrain, poorly maintained trail, etc. equals low rating  |
-|Dogs allowed        |Are dogs legally allowed in the park, is it dog friendly            |
-|Camping options     |Are there options for car or primitive camping? Yurts/cabins?       |
-|Activity options    |Do they rent kayaks, do they have geocaching, fishing, etc.?        |
+All parks are rated on 7 criteria using a 5 point system (1=lowest rating; 5=highest rating). This can help readers easily get a snapshot if the park is right for them. However, not everything can be summed up in a rating system so each park will also include further description of why those ratings were given as well as images of the park if one is available.
+
+
+**Criterion used in rating system:**
+
+|Criterion               |Description                                                         |
+|------------------------|--------------------------------------------------------------------|
+|Beauty                  |This includes natural beauty, cleanliness and uniqueness of the site|
+|Uncrowded               |We prefer less crowds, so more crowded/popular equals lower rating  |
+|Ease of navigation      |This refers to trail confusion, will you get lost IN the park       |
+|Toddler friendly trails |Difficult terrain, poorly maintained trail, etc. equals low rating  |
+|Dogs allowed            |Are dogs legally allowed in the park? Is it dog friendly?           |
+|Camping options         |Are there options for car or primitive camping? Yurts/cabins?       |
+|Activity options        |Do they rent kayaks? Have swimming, fishing, climbing, etc.?        |
 
 
 
