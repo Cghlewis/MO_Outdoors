@@ -4,11 +4,12 @@
 
 ## Rating System
 - Beauty
-- Popularity/Crowds
-- Ease of navigation*******
+- Uncrowded
+- Ease of navigation
 - Camping options
-- Kid friendly
+- Kid friendly trails
 - Dogs Allowed
+- Activity options
 
 ## Chapters
 
